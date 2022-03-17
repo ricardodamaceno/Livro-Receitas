@@ -1,3 +1,3 @@
 livro de receitas
 
-receita pave
+receita do pave
